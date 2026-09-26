@@ -63,19 +63,6 @@ Currently looking for remote opportunities as a **Python Developer / Code Review
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ClayLanzino&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClayLanzino&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClayLanzino&hide_border=true" alt="GitHub Streak"/>
-</p>
-
----
-
 ## 🤝 How to Collaborate With Me
 
 If you have a Python or IBM i / AS400 project and need someone who:
