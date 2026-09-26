@@ -22,7 +22,7 @@ Developer with a solid background in **IBM System i (AS400) and RPGLE**, now exp
 
 I enjoy reading, analyzing, debugging, and maintaining code — understanding how every script works, spotting errors, proposing improvements, and documenting what I learn along the way.
 
-Currently looking for remote opportunities as a **Python Developer / Code Reviewer / Development Apprentice**, where I can contribute across the full cycle: analysis, development, testing, and deployment.
+Currently looking for remote opportunities as a Python Developer, Code Reviewer, or IBM i / AS400 Integration Developer, where I can contribute across the full cycle: analysis, development, testing, and deployment.
 
 ---
 
@@ -55,9 +55,9 @@ Currently looking for remote opportunities as a **Python Developer / Code Review
 
 ## 📌 Featured Projects
 
-- 🛒 **[seo-bot-ohanapuppies](https://github.com/ClayLanzino/seo-bot-ohanapuppies)** *(Private)* — SEO Automation System for OhanaPuppies Shopify Store (USA/Canada market). Built in **Python**, MIT License.
-- 🖥️ **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** *(Public)* — Collection of IBM System i / AS400 projects.
-- 💾 **[VS-Code-IBM-i---AS400---iSeries](https://github.com/ClayLanzino/VS-Code-IBM-i---AS400---iSeries)** *(Private)* — Backup of source programs created from VS Code, in **RPGLE**.
+- 🐍 **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** *(Public)* — **Python ↔ IBM i (AS/400) Payroll Interface.** Reads employee salaries from '.xls', converts to '.csv', and updates records directly in IBM DB2/400 via ODBC/FTP. Built for Windows 10+, Python 3.8, IBM i OS 6.0+.
+- 🛒 **[seo-bot-ohanapuppies](https://github.com/ClayLanzino/seo-bot-ohanapuppies)** *(Private)* — SEO Automation System for OhanaPuppies Shopify Store (USA/Canada). Python, MIT License.
+- 💾 **[VS-Code-IBM-i---AS400---iSeries](https://github.com/ClayLanzino/VS-Code-IBM-i---AS400---iSeries)** *(Private)* — Backup of RPGLE source programs created from VS Code.
 
 > 🔒 *Some repositories are private due to client confidentiality. A walkthrough of their structure and functionality can be shared on request.*
 
