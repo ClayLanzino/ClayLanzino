@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Clay Lancini</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer+in+Training;Code+Review+Enthusiast;Debugging+%26+Maintenance;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=650&lines=Python+Developer;IBM+i+%2F+AS400+%2F+RPGLE;Code+Review+%26+Debugging;Open+to+Remote+Junior+Roles" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -18,19 +18,21 @@
 
 ## 🧑‍💻 About Me
 
-Python developer in training, with hands-on experience in **reading, analyzing, debugging, and maintaining code**.  
-I enjoy understanding how every script works, spotting errors, suggesting improvements, and documenting what I learn.
+Developer with a solid background in **IBM System i (AS400) and RPGLE**, now expanding into **Python** for automation, data handling, and API integrations.
 
-I'm currently looking for my first remote opportunity as a **Junior Python Developer / Junior Code Reviewer / Development Apprentice**, where I can contribute across the full cycle: analysis, development, testing, and deployment.
+I enjoy reading, analyzing, debugging, and maintaining code — understanding how every script works, spotting errors, proposing improvements, and documenting what I learn along the way.
+
+Currently looking for remote opportunities as a **Python Developer / Code Reviewer / Development Apprentice**, where I can contribute across the full cycle: analysis, development, testing, and deployment.
 
 ---
 
 ## ✅ What I Bring
 
+- 🐍 **Python scripting** – automation, data handling, and API consumption.
+- 🖥️ **IBM i / AS400 / RPGLE** – real-world experience maintaining and building systems on legacy platforms.
 - 📖 **Reading and analyzing code** – understanding logic, spotting bad practices and common mistakes.
 - 🐞 **Debugging and fixing** – using `pdb`, logging, and manual testing to isolate issues.
 - 🧹 **Script maintenance** – refactoring, improving readability, and updating dependencies.
-- ✍️ **Building new scripts** – automation, data handling, API consumption.
 - ✅ **Detail-oriented review** – testing edge cases, verifying inputs/outputs, documenting findings.
 
 ---
@@ -39,12 +41,22 @@ I'm currently looking for my first remote opportunity as a **Junior Python Devel
 
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/IBM%20i-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM i"/>
+  <img src="https://img.shields.io/badge/AS400-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="AS400"/>
+  <img src="https://img.shields.io/badge/RPGLE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="RPGLE"/>
   <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="CSV"/>
   <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
   <img src="https://img.shields.io/badge/Requests-2C5BB4?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </p>
+
+---
+
+## 📌 Featured Projects
+
+- **[seo-bot-ohanapuppies](https://github.com/ClayLanzino/seo-bot-ohanapuppies)** — SEO Automation System for OhanaPuppies Shopify Store (USA/Canada market). Built in Python. MIT License.
+- **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** — Collection of IBM System i / AS400 projects.
 
 ---
 
@@ -63,12 +75,12 @@ I'm currently looking for my first remote opportunity as a **Junior Python Devel
 
 ## 🤝 How to Collaborate With Me
 
-If you have a Python project and need someone who:
+If you have a Python or IBM i / AS400 project and need someone who:
 
-- Reviews your code with a critical yet respectful eye
+- Reviews code with a critical yet respectful eye
 - Tests edge cases and documents findings
 - Debugs errors and proposes concrete solutions
-- Handles maintenance tasks or small scripts
+- Handles maintenance tasks or builds small automation scripts
 
 … I'd be glad to help and keep learning along the way.
 
