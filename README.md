@@ -1,73 +1,67 @@
-# 👋 Hola, soy Clay Lancini
+<h1 align="center">👋 Hi, I'm Clay Lancini</h1>
 
-## Sobre mí
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=3776AB&center=true&vCenter=true&width=600&lines=Python+Developer+in+Training;Code+Review+Enthusiast;Debugging+%26+Maintenance;Always+Learning" alt="Typing SVG" />
+</p>
 
-Desarrollador Python en formación, con experiencia práctica en **lectura, análisis, depuración y mantenimiento de código**.  
-Disfruto entender cómo funciona cada script, detectar errores, proponer mejoras y documentar lo aprendido.
-
-Actualmente busco mi primera oportunidad remota como **Python Junior / Code Reviewer Junior / Aprendiz de desarrollo**, donde pueda contribuir en el ciclo completo: análisis, desarrollo, pruebas y puesta en marcha.
-
-## Lo que puedo aportar
-
-- 📖 **Lectura y análisis de código** ajeno: entiendo la lógica, detecto malas prácticas y errores comunes.
-- 🐞 **Depuración y corrección**: uso herramientas como `pdb`, logging y pruebas manuales para aislar fallos.
-- 🧹 **Mantenimiento de scripts**: refactorizo, mejoro legibilidad y actualizo dependencias.
-- ✍️ **Desarrollo de nuevos scripts**: automatizaciones, manejo de datos, consumo de APIs, etc.
-- ✅ **Revisión con atención al detalle**: pruebo casos borde, verifico entradas/salidas y dejo constancia de lo revisado.
-
-## Tecnologías y prácticas que manejo
-
-- Python (estructuras de datos, funciones, módulos, manejo de errores)
-- Manipulación de archivos **CSV** y **JSON**
-- Peticiones HTTP y consumo de **APIs** con `requests`
-- Control de versiones con **Git** y **GitHub**
-- Principios básicos de código limpio y revisión constructiva
-
-## Cómo colaborar conmigo
-
-Si tienes un proyecto en Python y necesitas a alguien que:
-
-- Revise tu código con ojo crítico y respetuoso
-- Pruebe casos límite y documente hallazgos
-- Depure errores y proponga soluciones concretas
-- Se encargue de tareas de mantenimiento o scripts pequeños
-
-… estaré encantado de ayudar y seguir aprendiendo en el proceso.
-
-📬 **Contacto**: [clay.lancini@gmail.com](mailto:clay.lancini@gmail.com)
+<p align="center">
+  <a href="mailto:clay.lancini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-clay.lancini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/ClayLanzino">
+    <img src="https://img.shields.io/badge/GitHub-ClayLanzino-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <img src="https://img.shields.io/badge/Open%20to-Remote%20Work-2ea44f?style=for-the-badge" alt="Open to remote work"/>
+</p>
 
 ---
 
-*Siempre abierto a retroalimentación. Creo que el buen código empieza por una buena revisión.*
-
----
-
-# 👋 Hi, I'm Clay Lancini
-
-## About Me
+## 🧑‍💻 About Me
 
 Python developer in training, with hands-on experience in **reading, analyzing, debugging, and maintaining code**.  
 I enjoy understanding how every script works, spotting errors, suggesting improvements, and documenting what I learn.
 
 I'm currently looking for my first remote opportunity as a **Junior Python Developer / Junior Code Reviewer / Development Apprentice**, where I can contribute across the full cycle: analysis, development, testing, and deployment.
 
-## What I Bring
+---
 
-- 📖 **Reading and analyzing code**: I understand the logic, spot bad practices, and catch common mistakes.
-- 🐞 **Debugging and fixing**: I use tools like `pdb`, logging, and manual testing to isolate issues.
-- 🧹 **Script maintenance**: I refactor, improve readability, and update dependencies.
-- ✍️ **Building new scripts**: automation, data handling, API consumption, and more.
-- ✅ **Detail-oriented review**: I test edge cases, verify inputs/outputs, and keep a record of what was reviewed.
+## ✅ What I Bring
 
-## Technologies and Practices I Work With
+- 📖 **Reading and analyzing code** – understanding logic, spotting bad practices and common mistakes.
+- 🐞 **Debugging and fixing** – using `pdb`, logging, and manual testing to isolate issues.
+- 🧹 **Script maintenance** – refactoring, improving readability, and updating dependencies.
+- ✍️ **Building new scripts** – automation, data handling, API consumption.
+- ✅ **Detail-oriented review** – testing edge cases, verifying inputs/outputs, documenting findings.
 
-- Python (data structures, functions, modules, error handling)
-- **CSV** and **JSON** file manipulation
-- HTTP requests and **API** consumption with `requests`
-- Version control with **Git** and **GitHub**
-- Basic principles of clean code and constructive code review
+---
 
-## How to Collaborate With Me
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/CSV-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="CSV"/>
+  <img src="https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white" alt="JSON"/>
+  <img src="https://img.shields.io/badge/Requests-2C5BB4?style=for-the-badge&logo=python&logoColor=white" alt="Requests"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ClayLanzino&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ClayLanzino&layout=compact&hide_border=true" alt="Top Languages" height="160"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ClayLanzino&hide_border=true" alt="GitHub Streak"/>
+</p>
+
+---
+
+## 🤝 How to Collaborate With Me
 
 If you have a Python project and need someone who:
 
@@ -82,4 +76,4 @@ If you have a Python project and need someone who:
 
 ---
 
-*Always open to feedback. I believe good code starts with a good review.*
+<p align="center"><i>Always open to feedback. I believe good code starts with a good review.</i></p>
