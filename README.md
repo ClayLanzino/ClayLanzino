@@ -55,8 +55,11 @@ Currently looking for remote opportunities as a **Python Developer / Code Review
 
 ## 📌 Featured Projects
 
-- **[seo-bot-ohanapuppies](https://github.com/ClayLanzino/seo-bot-ohanapuppies)** — SEO Automation System for OhanaPuppies Shopify Store (USA/Canada market). Built in Python. MIT License.
-- **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** — Collection of IBM System i / AS400 projects.
+- 🛒 **[seo-bot-ohanapuppies](https://github.com/ClayLanzino/seo-bot-ohanapuppies)** *(Private)* — SEO Automation System for OhanaPuppies Shopify Store (USA/Canada market). Built in **Python**, MIT License.
+- 🖥️ **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** *(Public)* — Collection of IBM System i / AS400 projects.
+- 💾 **[VS-Code-IBM-i---AS400---iSeries](https://github.com/ClayLanzino/VS-Code-IBM-i---AS400---iSeries)** *(Private)* — Backup of source programs created from VS Code, in **RPGLE**.
+
+> 🔒 *Some repositories are private due to client confidentiality. A walkthrough of their structure and functionality can be shared on request.*
 
 ---
 
