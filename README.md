@@ -24,7 +24,7 @@
 
 **IBM i / AS400 (RPGLE) Developer** with real-world experience building and maintaining systems on legacy platforms, now specialized in **integrating Python with IBM i environments**.
 
-I design and build Python tools that connect to **IBM DB2/400 via ODBC and FTP** — automating payroll, data conversion, and record updates. My work combines the reliability of IBM i with the flexibility of modern Python scripting.
+I design and build Python tools that connect to **IBM DB2/400 via ODBC and FTP** — automating payroll, accounting,  or ERP systems among others, along with data conversion and record updates. My work combines the reliability of IBM i with the flexibility of modern Python scripting.
 
 I enjoy reading, analyzing, debugging, and maintaining code — understanding how every script works, spotting errors, proposing improvements, and documenting what I learn along the way.
 
@@ -35,7 +35,7 @@ Currently open to **remote opportunities** as an **IBM i / AS400 Developer**, **
 ## ✅ What I Bring
 
 - 🖥️ **IBM i / AS400 / RPGLE** – real-world experience building, maintaining, and modernizing systems on legacy platforms.
-- 🔗 **Python ↔ IBM i integration** – connecting Python to IBM DB2/400 via ODBC and FTP, automating payroll and data workflows.
+- 🔗 **Python ↔ IBM i integration** – connecting Python to IBM DB2/400 via ODBC and FTP, automating payroll, accounting, or ERP systems, among others.
 - 🐍 **Python automation** – CSV/JSON processing, REST API consumption, and GUI tools built with Tkinter and Pillow.
 - 🐞 **Debugging and maintenance** – using `pdb`, logging, and manual testing to isolate and fix issues.
 - ✅ **Detail-oriented code review** – testing edge cases, verifying inputs/outputs, documenting findings.
