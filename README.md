@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:claylancini@gmail.com">
-    <img src="https://img.shields.io/badge/Email-claylancini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <a href="mailto:clay.lancini@gmail.com">
+    <img src="https://img.shields.io/badge/Email-clay.lancini@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://github.com/ClayLanzino">
     <img src="https://img.shields.io/badge/GitHub-ClayLanzino-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
