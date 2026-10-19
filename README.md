@@ -82,7 +82,7 @@ I'm available for **remote freelance, contract, or full-time roles** as a **Seni
 
 ## 🤝 How to Collaborate With Me
 
-If you're looking for a **senior IBM i / AS400 developer** or a **Python integration specialist** with real production experience, I can help with:
+If you're looking for a **senior IBM i / AS400 developer** or a **Python integration specialist** with real production experience (available for remote/freelance projects), I can help with:
 
 - 🖥️ **IBM i / AS400 development** – RPGLE (Free Format), SQL Embedded, RPG Sockets, JSON, and modern API service programs on IBM i.
 - 🔗 **Legacy system integration** – connecting Python to DB2/400 via ODBC and FTP, automating ERP, payroll, and accounting workflows.
@@ -90,6 +90,7 @@ If you're looking for a **senior IBM i / AS400 developer** or a **Python integra
 - 📊 **ERP & reporting support** – QR Code, Batch and On-Line Programs, barcode data collection, and daily client support.
 
 📬 **Contact**: [clay.lancini@gmail.com](mailto:clay.lancini@gmail.com)
+💼 **Let's connect:** Feel free to reach out to discuss how I can support your team's legacy systems or automation needs.
 
 ---
 
