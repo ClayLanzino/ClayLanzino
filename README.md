@@ -72,7 +72,7 @@ I'm available for **remote freelance, contract, or full-time roles** as a **Seni
 
 *Selected projects across payroll, ERP, accounting, and IBM i integrations.*
 
-- 🖥️ **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** *(Public)* — **Python ↔ IBM i (AS/400) Payroll Interface.** Reads employee salaries from '.xls', converts to '.csv', and updates records directly in IBM DB2/400 via ODBC/FTP. Includes a Windows GUI, '.env' management, and MIT License. Built for Windows 10+, Python 3.8, IBM i OS 6.0+.
+- 🚀 🖥️ **[IBM-System-i_AS400](https://github.com/ClayLanzino/IBM-System-i_AS400)** *(Public)* — **Python ↔ IBM i (AS/400) Payroll Interface.** Reads employee salaries from '.xls', converts to '.csv', and updates records directly in IBM DB2/400 via ODBC/FTP. Includes a Windows GUI, '.env' management, and MIT License. Built for Windows 10+, Python 3.8, IBM i OS 6.0+.
 - 🛒 **[seo-bot-ohanapuppies](https://github.com/ClayLanzino/seo-bot-ohanapuppies)** *(Private)* — SEO automation system for an international Shopify store. Python, MIT License.
 - 💾 **[VS-Code-IBM-i---AS400---iSeries](https://github.com/ClayLanzino/VS-Code-IBM-i---AS400---iSeries)** *(Private)* — Backup of RPGLE source programs, maintained in VS Code.
 
