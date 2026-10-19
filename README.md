@@ -39,7 +39,7 @@ I'm available for **remote freelance, contract, or full-time roles** as a **Seni
 - 🔗 **Modern RPGLE** – RPG Sockets programming, JSON format, API service programs, SQL Embedded, and Excel spreadsheets from RPGLE.
 - 🐍 **Python ↔ IBM i integration** – connecting Python to IBM DB2/400 via ODBC and FTP, automating payroll, accounting, and ERP workflows.
 - 🐍 **Python automation** – CSV/JSON processing, REST API consumption (GET/POST), and GUI tools built with Tkinter and Pillow.
-- ☕ Integrations IBM Toolbox for Java (JT Open Java Library) with IBM i Power Systems environments.
+- ☕ **Java Integrations** – IBM Toolbox for Java (JT Open Java Library) with IBM i Power Systems environments.
 - 🐞 **Debugging and maintenance** – isolating issues, testing edge cases, and documenting findings with clarity.
 - 📊 **ERP & business systems** – hands-on support for ERP platforms, barcode data collection, and reporting (QR Code, Batch, and On-Line Programs).
 - ✅ **Independent work ethic** – 3+ years as an independent consultant for international clients across multiple time zones.
