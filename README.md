@@ -89,7 +89,7 @@ If you're looking for a **senior IBM i / AS400 developer** or a **Python integra
 - 🐞 **Maintenance and debugging** – analyzing existing code, isolating issues, testing edge cases, and documenting findings.
 - 📊 **ERP & reporting support** – QR Code, Batch and On-Line Programs, barcode data collection, and daily client support.
 
-📬 **Contact**: [clay.lancini@gmail.com](mailto:clay.lancini@gmail.com)
+📬 **Contact**: [clay.lancini@gmail.com](mailto:clay.lancini@gmail.com).
 💼 **Let's connect:** Feel free to reach out to discuss how I can support your team's legacy systems or automation needs.
 
 ---
