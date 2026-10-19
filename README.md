@@ -25,7 +25,7 @@
 
 **Senior IBM i / AS400 Developer** with **33+ years of experience** building, maintaining, and modernizing mission-critical systems on IBM Power Systems (AS400, S/3X) environments.
 
-Specialized in **RPGLE (Free Format)**, **· RPG II RPG III · RPG IV**, **SQL Embedded**, **RPG Sockets**, and **JSON/API integrations on IBM i**. I also build **Python tools that bridge modern automation with legacy IBM i systems**, connecting to IBM DB2/400 via ODBC and FTP.
+Specialized in **RPGLE (Free Format)**, **· RPG II RPG III · RPG IV**, **SQL Embedded**, **RPG Sockets Programming**, and **JSON/API integrations on IBM i**. I also build **Python tools that bridge modern automation with legacy IBM i systems**, connecting to IBM DB2/400 via ODBC and FTP.
 
 I have worked as an **independent consultant** for international clients (USA, Malaysia, Venezuela), providing daily support, troubleshooting, and development for ERP systems, barcode data collection, payroll, accounting, and reporting workflows.
 
