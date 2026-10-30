@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-**Senior IBM i / AS400 Developer** with over **33 years of experience** building, maintaining, and modernizing mission-critical systems on IBM Power Systems (AS400, S/3X) environments.
+**Senior IBM i / AS400 Developer** with over **33 years of experience** building, maintaining, and modernizing mission-critical systems on IBM Power Systems (AS400, Systems/3X) environments.
 
 Specialized in **RPGLE (Free Format)**, **· RPG II RPG III · RPG IV**, **SQL Embedded**, **RPG Sockets Programming**, and **JSON/API integrations on IBM i**. I also build **Python tools that bridge modern automation with legacy IBM i systems**, connecting to IBM DB2/400 via ODBC, FTP or using IBM Toolbox for Java (JT Open Java Library).
 
@@ -84,7 +84,7 @@ I'm available for **remote freelance, contract, or full-time roles** as a **Seni
 
 If you're looking for a **senior IBM i / AS400 developer** or a **Python integration specialist** with real production experience (available for remote/freelance projects), I can help with:
 
-- 🖥️ **IBM i / AS400 development** – RPGLE (Free Format), SQL Embedded, RPG Sockets, JSON, and modern API service programs on IBM i.
+- 🖥️ **IBM i / AS400 development** – RPGLE (Free Format), Embedded SQL , RPG Sockets, JSON, and modern API service programs on IBM i.
 - 🔗 **Legacy system integration** – connecting Python to DB2/400 via ODBC and FTP, automating ERP, payroll, and accounting workflows.
 - 🐞 **Maintenance and debugging** – analyzing existing code, isolating issues, testing edge cases, and documenting findings.
 - 📊 **ERP & reporting support** – QR Code, Batch and On-Line Programs, barcode data collection, and daily client support.
@@ -94,4 +94,4 @@ If you're looking for a **senior IBM i / AS400 developer** or a **Python integra
 
 ---
 
-<p align="center"><i>33+ years bridging IBM i (AS/400) legacy systems with modern Python automation.</i></p>
+<p align="center"><i>With over 33 years bridging IBM i (AS/400) legacy systems with modern Python automation.</i></p>
