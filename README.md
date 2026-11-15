@@ -23,7 +23,7 @@
 
 ## 🧑‍💻 About Me
 
-**Senior IBM i (AS400) Developer** with over **33 years of experience** building, maintaining, and modernizing mission-critical systems on IBM Power Systems (AS400, Systems/3X) environments.
+**Senior IBM i (AS400) Developer** with over **33 years of experience** building, maintaining, and modernizing mission-critical systems on IBM Power Systems (AS400, System/3X) environments.
 
 Specialized in **RPGLE (Free Format)**, **· RPG II RPG III · RPG IV**, **Embedded SQL**, **RPG Sockets Programming**, and **JSON/API integrations on IBM i**. I also build **Python tools that bridge modern automation with legacy IBM i systems**, connecting to IBM DB2/400 via ODBC, FTP or using IBM Toolbox for Java (JT Open Java Library).
 
@@ -51,7 +51,7 @@ I'm available for **remote freelance, contract, or full-time roles** as a **Seni
 <p align="left">
   <img src="https://img.shields.io/badge/IBM%20i-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM i"/>
   <img src="https://img.shields.io/badge/AS400-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="AS400"/>
-  <img src="https://img.shields.io/badge/S%2F3X-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="S/3X"/>
+  <img src="https://img.shields.io/badge/S%2F3X-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="System/3X"/>
   <img src="https://img.shields.io/badge/RPGLE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="RPGLE"/>
   <img src="https://img.shields.io/badge/DB2%2F400-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2/400"/>
   <img src="https://img.shields.io/badge/SQL%20Embedded-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="SQL Embedded"/>
