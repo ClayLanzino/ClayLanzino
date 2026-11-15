@@ -51,10 +51,10 @@ I'm available for **remote freelance, contract, or full-time roles** as a **Seni
 <p align="left">
   <img src="https://img.shields.io/badge/IBM%20i-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="IBM i"/>
   <img src="https://img.shields.io/badge/AS400-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="AS400"/>
-  <img src="https://img.shields.io/badge/S%2F3X-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="System/3X"/>
+  <img src="https://img.shields.io/badge/System%203%2FX-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="System/3X"/>
   <img src="https://img.shields.io/badge/RPGLE-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="RPGLE"/>
   <img src="https://img.shields.io/badge/DB2%2F400-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="DB2/400"/>
-  <img src="https://img.shields.io/badge/SQL%20Embedded-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Embedded SQL"/>
+  <img src="https://img.shields.io/badge/Embedded%20SQL-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="Embedded SQL"/>
   <img src="https://img.shields.io/badge/RPG%20Sockets-052FAD?style=for-the-badge&logo=ibm&logoColor=white" alt="RPG Sockets"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/ODBC-2C5BB4?style=for-the-badge&logo=python&logoColor=white" alt="ODBC"/>
